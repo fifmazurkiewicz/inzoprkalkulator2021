@@ -3,4 +3,7 @@ def dodaj(a, b):
     return wynik
 
 
-dodaj()
+a = int(input())
+b = int(input())
+
+dodaj(a, b)
