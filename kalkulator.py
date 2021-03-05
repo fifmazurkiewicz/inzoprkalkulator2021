@@ -7,10 +7,14 @@ def dodaj(a, b):
     return wynik
 
 
+def odejmij(a, b):
+    return a - b
+
+
 get_info()
 
 a = int(input())
 b = int(input())
 
-dodaj(a, b)
-
+print(dodaj(a, b))
+print("koniec programu")
