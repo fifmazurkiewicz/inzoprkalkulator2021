@@ -18,4 +18,4 @@ b = int(input())
 
 print(dodaj(a, b))
 print("Koniec programu. Papa!")
-print('Sprawdzam .idea, .gitignore')
+
