@@ -18,4 +18,5 @@ b = int(input())
 
 print(dodaj(a, b))
 print("Koniec programu. Papa!")
+print("Commit poprzez bash")
 
