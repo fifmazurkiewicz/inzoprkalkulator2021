@@ -1,3 +1,9 @@
+"""
+Autorem skryptu jest XYZ
+
+
+
+"""
 def get_info():
     print("Witaj, to jest prosty kalkulator")
 
