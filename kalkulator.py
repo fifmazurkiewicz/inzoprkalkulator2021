@@ -14,7 +14,8 @@ def dodaj(a, b):
 
 
 def odejmij(a, b):
-    return a - b
+    wynik = a- b
+    return wynik
 
 
 def dziel(a, b):
