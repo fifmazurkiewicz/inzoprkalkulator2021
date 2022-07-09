@@ -1,10 +1,9 @@
 # kalkulator - instrukcja obsługi
-To jest prosty projket kalkulatora.
+To jest prosty projekt kalkulatora wykonywany na zajęciach.
 
-Robimy go przy okazji nauki gita. 
-
-To jest pierwszy commit, który ma trafić na gałąź_testową_1.
-
-galaz_testowa_2 zmiana 1
-
-galaz_testowa_2 zmiana 2 
+Robimy go przy okazji nauki gita, podczas której poznamy czym jest:
+* merge,
+* pull,
+* push,
+* commit,
+* pull request oraz jak pracować na gałęziach
